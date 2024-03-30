@@ -1,6 +1,5 @@
 {
   "project_name": "Project",
   "date": "01-01-9999",
-  "requester": "Internal",
-  "_project_folder_name":"{{ cookiecutter.project_name }} ({{cookiecutter.requester}}) ({{cookiecutter.date}})"
+  "requester": "Internal"
 }
