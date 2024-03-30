@@ -1,5 +1,5 @@
 {
   "project_name": "Project",
-  "date": "01-01-9999",
+  "date": "{% now 'local', '%Y-%m-%d' %}",
   "requester": "Internal"
 }
