@@ -1,0 +1,1 @@
+This folder can be accessed locally at `Personal Processes\Generic Notes\Quick Notes.code-workspace`
