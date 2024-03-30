@@ -20,10 +20,10 @@
 
 > Please see the [project planning checklist](<../Miscellaneous/Project Notes Structure.md>) for context and process description on how the notes structure in this folder should generally be used.
 
-- Issue Name: **{{ Issue Name }}**
-- Jira Issue: **{{ Jira Issue }}**
-- Estimated Development Hours: **{{ N }}**
-- Issue Key: **`{{ YYYY-MM-DD-hh-mm-ss }}`**
+- Issue Name: **Issue Name**
+- Jira Issue: **Jira Issue**
+- Estimated Development Hours: **N**
+- Issue Key: **YYYY-MM-DD-hh-mm-ss**
 
 ## Goals
 

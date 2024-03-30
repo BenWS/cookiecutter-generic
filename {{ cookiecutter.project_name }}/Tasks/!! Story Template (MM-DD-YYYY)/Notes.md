@@ -2,9 +2,9 @@
 
 Template hosted remotely on [GitHub](https://github.com/BenWS/general-reference-physical-directory/blob/master/General%20Reference%20(Shared%20Directory)/Personal%20Processes/Generic%20Notes/Tasks/!!%20Story%20Template%20(MM-DD-YYYY)/Notes.md)
 
-- Issue Link: **{{ Provide }}**
-- Issue ID: **{{ YYYY-MM-DD-hh-mm-ss }}**
-- Estimated Development Hours: **{{ N }}**
+- Issue Link: **Provide**
+- Issue ID: **YYYY-MM-DD-hh-mm-ss**
+- Estimated Development Hours: **N**
 - File Folder: See [here](<../../Files/Short Name MM-DD-YYYY>)
 
 > Once a remotely hosted issue (if any) has been created, all details should be persisted there rather

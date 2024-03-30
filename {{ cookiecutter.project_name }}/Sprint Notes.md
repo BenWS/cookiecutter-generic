@@ -1,8 +1,8 @@
 # (Template) Sprint MM-DD-YYYY
 
-- Issue Link: **{{ Provide }}**
-- Issue ID: **{{ YYYY-MM-DD-hh-mm-ss }}**
-- Estimated Development Hours: **{{ N }}**
+- Issue Link: **Provide**
+- Issue ID: **YYYY-MM-DD-hh-mm-ss**
+- Estimated Development Hours: **N**
 - File Folder: See [here](<../../Files/Short Name MM-DD-YYYY>)
 
 > Once a remotely hosted issue (if any) has been created, all details should be persisted there rather
