@@ -7,8 +7,6 @@
 
 > Once a remotely hosted issue (if any) has been created, all details should be persisted there rather
 
-> This template is remotely hosted on [this GitHub repo page](https://github.com/BenWS/general-reference-physical-directory/blob/master/General%20Reference%20(Shared%20Directory)/Personal%20Processes/Generic%20Notes/Sprint%20Notes.md)
-
 __Project Fields__
 - [ ] TODO STORY: Log Story
 - [x] TODO STORY: Update Story 
