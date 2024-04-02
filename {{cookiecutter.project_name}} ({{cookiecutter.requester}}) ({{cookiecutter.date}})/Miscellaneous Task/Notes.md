@@ -5,7 +5,7 @@ Template hosted remotely on [GitHub](https://github.com/BenWS/general-reference-
 - Issue Link: **Provide**
 - Issue ID: **YYYY-MM-DD-hh-mm-ss**
 - Estimated Development Hours: **N**
-- File Folder: See [here](<../Files/Short Name MM-DD-YYYY>)
+- File Folder: See [here](<../Project Type/Files/Short Name MM-DD-YYYY>)
 
 > Once a remotely hosted issue (if any) has been created, all details should be persisted there rather
 
