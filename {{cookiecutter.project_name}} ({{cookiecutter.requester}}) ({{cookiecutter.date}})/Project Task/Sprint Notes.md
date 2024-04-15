@@ -18,8 +18,10 @@ __Goal__
 
 __Tasks__
 
-- [ ] Create initial Slack Workflow
-- [ ] Create supplementary Confluence Page
+- __vv Current vv__
+- [ ] Task 1
+- __vv Backlogged vv__
+- [ ] Task 2
 - [ ] Task 3
 
 # Output
