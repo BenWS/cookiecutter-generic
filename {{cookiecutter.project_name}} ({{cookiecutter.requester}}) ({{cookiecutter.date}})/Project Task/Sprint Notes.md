@@ -24,8 +24,16 @@ __Tasks__
 - [ ] Task 2
 - [ ] Task 3
 
-# Output
+## Output
 
 ## Journal
 
 *Provide loose notes without required structure here*
+
+## Publish
+
+*Anything under this section should be eventually published to Jira is an issue comment*
+
+### Comment Title 1
+
+### Comment Title 2
