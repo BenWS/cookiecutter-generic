@@ -20,7 +20,7 @@ __Goal__
 __Tasks__
 
 - __vv Current vv__
-- [ ] Task 1
+- [ ] Resolve failures in SQL Server management studio until none left
 - __vv Backlogged vv__
 - [ ] Task 2
 - [ ] Task 3
@@ -33,3 +33,10 @@ __Tasks__
 
 ### Topic 1
 
+## Publish
+
+*Anything under this section should be eventually published to Jira is an issue comment*
+
+### Comment Title 1
+
+### Comment Title 2
