@@ -26,6 +26,8 @@ __Tasks__
 
 ## Output
 
+*Provide Task Specifics from 'Specifics' folder*
+
 ### Journal
 
 *Provide loose notes without required structure here*
