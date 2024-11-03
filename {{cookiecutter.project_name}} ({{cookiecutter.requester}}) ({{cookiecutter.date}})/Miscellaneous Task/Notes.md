@@ -20,7 +20,7 @@ __Goal__
 __Tasks__
 
 - __vv Current vv__
-- [ ] Resolve failures in SQL Server management studio until none left
+- [ ] Task 1
 - __vv Backlogged vv__
 - [ ] Task 2
 - [ ] Task 3
