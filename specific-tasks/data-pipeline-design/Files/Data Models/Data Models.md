@@ -2,10 +2,13 @@
 
 This is the companion folder to the `Data Models.xlsx` document.
 
-# ++Model 1++
+# Table Models
+
+## ++Model 1++
 
 - Model Name: ++Model Name++
 - Dataset Name: ++Database Name++
+- Grain: *(column_1) + (column_2) + (column_3)*
 - Load Frequency
   - Monthly
   - Weekly
@@ -18,10 +21,40 @@ This is the companion folder to the `Data Models.xlsx` document.
 - Columns
   - *List columns as needed*
 
-# ++Model 2++
+__Criteria__
 
-- Model Name: ++Model Name++
-- Dataset Name: ++Database Name++
+__Validations__
+
+__Additional Details__
+
+# Non-Relational Models
+
+## ++Non-Relational Model++
+
+{
+	"first_name":""
+	"last_name":"",
+	"title":"",
+	"organization:"",
+	"education":{
+			{},
+			{}
+		},
+	"missions"	
+}
+
+__Criteria__
+
+__Validations__
+
+__Additional Details__
+
+# Report Models
+
+## ++Report Model++
+
+- Model Name: ++Report Model++
+- Grain: *(column_1) + (column_2) + (column_3)*
 - Load Frequency
   - Monthly
   - Weekly
@@ -33,3 +66,9 @@ This is the companion folder to the `Data Models.xlsx` document.
   - No
 - Columns
   - *List columns as needed*
+
+__Criteria__
+
+__Validations__
+
+__Additional Details__
