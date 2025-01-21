@@ -5,6 +5,7 @@ This is the companion folder to the `Data Models.xlsx` document.
 # ++Model 1++
 
 - Model Name: ++Model Name++
+- Grain: *attribute #1 + attribute #2 + ... + #attribute N*
 - Dataset Name: ++Database Name++
 - Load Frequency
   - Monthly
@@ -17,6 +18,11 @@ This is the companion folder to the `Data Models.xlsx` document.
   - No
 - Columns
   - *List columns as needed*
+
+__Criteria__
+
+*Conditions which are needed for producing this result set*
+
 
 # ++Model 2++
 
@@ -33,3 +39,7 @@ This is the companion folder to the `Data Models.xlsx` document.
   - No
 - Columns
   - *List columns as needed*
+
+__Criteria__
+
+*Conditions which are needed for producing this result set*
