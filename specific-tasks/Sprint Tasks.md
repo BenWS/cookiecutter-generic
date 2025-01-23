@@ -71,3 +71,18 @@ __High Level Tasks__
 4. Prepare and Clean Data
 5. Explore and Analyze Data
 6. Develop Dashboard
+
+
+# Exploratory Data Analysis
+
+__Tasks__
+- [ ] Exploratory Analysis
+    - [ ] Complete Exploratory Analysis Excel File
+    - [ ] Identify column types in terms of qualitative or quantitative, discrete or continuous
+    - [ ] Identify column value range
+
+# Data Analysis
+
+__Tasks__
+- [ ] Analysis goal setting
+- [ ] Analysis outlining 
