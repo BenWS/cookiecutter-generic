@@ -1,5 +1,15 @@
 # Template
 
+__Tasks__
+- [ ] 
+- [ ] 
+- [ ] 
+
+__Sprint Close Checklist__
+- [ ] 
+- [ ] 
+- [ ] 
+
 # Generic Activities List
 
 - Data Pipeline Development
@@ -46,3 +56,18 @@ __Tasks__
 - [ ] All dbt repository changes deployed to 'main' branch
 - [ ] Create Data Pipeline design diagram
 - [ ] Complete data modeling template
+
+
+# Dashboard Construction
+
+__High Level Tasks__
+- [ ] Data Modeling
+- [ ] Exploratory Analysis
+- [ ] 
+
+1. Complete Resources Page Template
+2. Design Models
+3. Determine Initial Questions (using designed Model Schema)
+4. Prepare and Clean Data
+5. Explore and Analyze Data
+6. Develop Dashboard

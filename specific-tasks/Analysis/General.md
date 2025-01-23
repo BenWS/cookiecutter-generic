@@ -1,10 +1,4 @@
-## Dashboarding 
-
-### Pertinent Links
-
- - [Kaggle page](++Provide++)
-
-### Exploratory Data Analysis
+# Exploratory Data Analysis
 
 Guding Questions:
 1. What question(s) are you trying to solve (or prove wrong)?
@@ -14,15 +8,22 @@ Guding Questions:
 5. How can you add, change or remove features to get more out of your data?
 
 Process Steps:
-- [ ] Complete  `data_dictionary.xlsx` file (stored in `data\raw`)
+- [ ] Initial Data Modeling
     - [ ] Provide column definitions for each column in provided datasets
     - [ ] Identify column types in terms of qualitative or quantitative, discrete or continuous
+    - [ ] Identify column value range
 - [ ] Identify general learning aims (just a few, nothing too extensive)
    - [ ] Complete __Analysis Implementation__  - (see template section below for requirements)
    - [ ] Complete __General Aims__ - (see template section below for requirements)
 - [ ] Work through 'Guiding Questions` and produce analysis based on such
 	- [ ] *An initial outline of the analysis might be beneficial to produce here. Keep such in an `Analysis/Analysis Design.md` document in project workspace*
 - [ ] Determine one or two paths of further analysis for future research
+
+# Analysis Outlining
+
+__Pertinent Links__
+
+- [Kaggle page](++Provide++)
 
 __General Questions and Aims__
 
@@ -32,15 +33,7 @@ __General Questions and Aims__
 
 __Analysis Outline__
 
-<!-- WIP: Outline Analysis 
-
- - [ ] Design 'pivoted' format of data
- - [ ] Create Column Definitions for the pivoted format 
--->
-
 *Produce initial outline of exploratory analysis and describe in terms of dataset features (columns), summary statistics, and related visualizations. Provide limited commentary on relevance of visualization (if needed).*
-
-Part 1: Meta-Data Analysis
 
 
 __Produce Analysis__
