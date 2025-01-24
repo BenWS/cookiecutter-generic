@@ -1,6 +1,12 @@
 # About
 
-This is the companion folder to the `Data Models.xlsx` document.
+This is the companion folder to the `Data Models.xlsx` document. This is a lower-fidelity document than 
+
+
+- Table List:
+   - Table 1
+   - Table 2
+   - Table 3
 
 # Source Models
 
@@ -9,17 +15,16 @@ This is the companion folder to the `Data Models.xlsx` document.
 - Model Name: ++Model Name++
 - Dataset Name: ++Database Name++
 - Grain: *(column_1) + (column_2) + (column_3)*
-- Load Frequency
-  - Monthly
-  - Weekly
-  - Daily
-  - Intraday
-  - Ad hoc
-- Historical Model
-  - Yes
-  - No
+- Load Frequency: [Monthly,Weekly,Daily,Intraday,Ad hoc]
+- Historical Model: [Yes, No]
 - Columns
-  - *List columns as needed*
+  - column_1
+    - Description: *short description*
+    - Data Type: [string, float, integer, boolean]
+    - Data Object Type: [struct, single-valued,array]
+  - column_2
+    - ...
+  - ...
 
 # Table Models
 
@@ -28,17 +33,16 @@ This is the companion folder to the `Data Models.xlsx` document.
 - Model Name: ++Model Name++
 - Dataset Name: ++Database Name++
 - Grain: *(column_1) + (column_2) + (column_3)*
-- Load Frequency
-  - Monthly
-  - Weekly
-  - Daily
-  - Intraday
-  - Ad hoc
-- Historical Model
-  - Yes
-  - No
+- Load Frequency: [Monthly,Weekly,Daily,Intraday,Ad hoc]
+- Historical Model: [Yes, No]
 - Columns
-  - *List columns as needed*
+  - column_1
+    - Description: *short description*
+    - Data Type: [string, float, integer, boolean]
+    - Data Object Type: [struct, single-valued,array]
+  - column_2
+    - ...
+  - ...
 
 __Criteria__
 
