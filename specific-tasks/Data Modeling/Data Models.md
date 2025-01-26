@@ -20,7 +20,8 @@ This is the companion folder to the `Data Models.xlsx` document. This is a lower
 - Columns
   - column_1
     - Description: *short description*
-    - Data Type: [string, float, integer, boolean]
+    - Data Category: [Qualitative, Quantitative]
+    - Data Type: [string, float, integer, boolean, date, datetime]
     - Data Object Type: [struct, single-valued,array]
   - column_2
     - ...
@@ -38,7 +39,8 @@ This is the companion folder to the `Data Models.xlsx` document. This is a lower
 - Columns
   - column_1
     - Description: *short description*
-    - Data Type: [string, float, integer, boolean]
+		- Data Category: [Qualitative, Quantitative]
+    - Data Type: [string, float, integer, boolean, date, datetime]
     - Data Object Type: [struct, single-valued,array]
   - column_2
     - ...

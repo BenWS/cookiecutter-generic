@@ -47,7 +47,3 @@ __Future Analysis__
 <!-- TODO: -->
 
 *Provide some additional questions and ideas for next steps here, after exploratory analysis. Having further questions is a positive sign in that the initial analysis was successful in generating thought. Establish additional high-level conceptual questions, as a sort of feedback loop to the original 'Formulate Questions' section.*
-
-
-# Exploratory Analysis Outlining
-

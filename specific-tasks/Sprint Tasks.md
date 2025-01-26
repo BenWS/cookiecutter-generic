@@ -52,25 +52,28 @@ __Logic Container Catalog__
 # dbt Pipeline Development 
 
 __Tasks__
-- [ ] Review legacy procedure to identify logic for DCS Percentage
+[ ] dbt Pipeline Development
 - [ ] All dbt repository changes deployed to 'main' branch
-- [ ] Create Data Pipeline design diagram
-- [ ] Complete data modeling template
+- [ ] Data Pipline Design
+- [ ] Data Modeling
 
 
 # Dashboard Construction
 
 __High Level Tasks__
-- [ ] Data Modeling
-- [ ] Exploratory Analysis
-- [ ] 
+- [ ] Dashboard Construction
+  - [ ] Data Modeling
+  - [ ] Exploratory Analysis
+  - [ ] Analysis Design
+  - [ ] Initial Analysis
+  - [ ] Dashboard Wireframing
+  - [ ] Dashboard Construction
 
-1. Complete Resources Page Template
-2. Design Models
-3. Determine Initial Questions (using designed Model Schema)
-4. Prepare and Clean Data
-5. Explore and Analyze Data
-6. Develop Dashboard
+<!-- 
+Additional Context:
+
+- The 'Initial Analysis' portion (with results captured in PowerPoint) informs how the Dashboard User Interface should flow
+-->
 
 
 # Exploratory Data Analysis
