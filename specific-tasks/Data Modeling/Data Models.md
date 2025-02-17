@@ -46,7 +46,7 @@ This is the companion folder to the `Data Models.xlsx` document. This is a lower
     - ...
   - ...
 
-__Criteria__
+__Scope__
 
 __Validations__
 
@@ -68,7 +68,7 @@ __Additional Details__
 	"missions"	
 }
 
-__Criteria__
+__Scope__
 
 __Validations__
 
@@ -92,7 +92,7 @@ __Additional Details__
 - Columns
   - *List columns as needed*
 
-__Criteria__
+__Scope__
 
 __Validations__
 
