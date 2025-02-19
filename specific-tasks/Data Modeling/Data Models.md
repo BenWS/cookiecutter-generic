@@ -1,7 +1,6 @@
 # About
 
-This is the companion folder to the `Data Models.xlsx` document. This is a lower-fidelity document than 
-
+This is the companion file to the `Data Models.xlsx` document and intended to be a lower-fidelity alternative to that document.
 
 - Table List:
    - Table 1
@@ -48,9 +47,11 @@ This is the companion folder to the `Data Models.xlsx` document. This is a lower
 
 __Scope__
 
-__Validations__
+*What is the scope of this model, and equivalently what **doesn't** it include?*
 
-__Additional Details__
+### Additional Details
+
+*Notes on any of the following: missing value treatment, further column details etc*
 
 # Non-Relational Models
 
@@ -70,9 +71,11 @@ __Additional Details__
 
 __Scope__
 
-__Validations__
+*What is the scope of this model, and equivalently what **doesn't** it include?*
 
-__Additional Details__
+### Additional Details
+
+*Notes on any of the following: missing value treatment, further column details etc*
 
 # Report Models
 
@@ -94,6 +97,8 @@ __Additional Details__
 
 __Scope__
 
-__Validations__
+*What is the scope of this model, and equivalently what **doesn't** it include?*
 
-__Additional Details__
+### Additional Details
+
+*Notes on any of the following: missing value treatment, further column details etc*
