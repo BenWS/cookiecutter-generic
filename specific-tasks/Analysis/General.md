@@ -35,7 +35,6 @@ __Analysis Outline__
 
 *Produce initial outline of exploratory analysis and describe in terms of dataset features (columns), summary statistics, and related visualizations. Provide limited commentary on relevance of visualization (if needed).*
 
-
 __Produce Analysis__
 
 <!-- TODO: -->

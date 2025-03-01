@@ -1,3 +1,17 @@
+# About
+
+- [About](#about)
+- [Template](#template)
+- [Generic Activities List](#generic-activities-list)
+- [Data Pipeline Development](#data-pipeline-development)
+	- [Generic](#generic)
+	- [MS SQL Pipeline Development](#ms-sql-pipeline-development)
+- [Dashboard Construction](#dashboard-construction)
+- [Data Modeling](#data-modeling)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+
+
 # Template
 
 __Tasks__
@@ -16,6 +30,10 @@ __Sprint Close Checklist__
 
 # Data Pipeline Development
 
+## Generic
+
+- [Templates Folder](./Data%20Pipeline%20Design/)
+
 __Tasks__
 - [ ] Complete the Job Specifications description
 - [ ] Create Data Pipeline design diagram
@@ -25,16 +43,7 @@ __Examples__
 
 *Provide examples of records with which we can develop and validate ETL*
 
-__Data Pipeline Overview__
-
-*Describe any logic container artifacts such as stored procedures etc. *
-
- - Job 1 @ HH:MM AM/PM
-    - Step 1 @ HH:MM AM/PM
-    - ...
-- Job 2 @ HH:MM AM/PM
-
-# MS SQL Pipeline Development
+## MS SQL Pipeline Development
 
 __Tasks__
 - [ ] Develop MS SQL Load Procedure 
@@ -47,15 +56,6 @@ __Tasks__
 __Logic Container Catalog__
  - Object 1
  - Object 2
-
-
-# dbt Pipeline Development 
-
-__Tasks__
-[ ] dbt Pipeline Development
-- [ ] All dbt repository changes deployed to 'main' branch
-- [ ] Data Pipline Design
-- [ ] Data Modeling
 
 
 # Dashboard Construction
@@ -76,16 +76,37 @@ Additional Context:
 -->
 
 
+# Data Modeling
+
+- [Templates Folder](./Data%20Modeling/)
+
+- [ ] Identifying Models in scope
+- [ ] Complete Data Modeling template
+
+
 # Exploratory Data Analysis
 
 __Tasks__
+- [ ] Data Modeling
 - [ ] Exploratory Analysis
     - [ ] Complete Exploratory Analysis Excel File
     - [ ] Identify column types in terms of qualitative or quantitative, discrete or continuous
     - [ ] Identify column value range
 
+__Deliverables__
+
+- Analysis 'Artifact(s)' containing Exploratory Analysis preparation and results - [Jupter Notebook, Tableau Dashboard,...]
+
+__Acceptance Criteria__
+
+- Analysis has has provided enough of a foundation in understanding of dataset, such that we can conduct more detailed analysis
+- Exploratory Analysis results document(s)
+
 # Data Analysis
 
 __Tasks__
-- [ ] Analysis goal setting
-- [ ] Analysis outlining 
+- [ ] See [Exploratory Data Analysis](#exploratory-data-analysis) section 
+- [ ] Data Analysis - {Analysis Type and Name}
+  - [ ] Analysis goal setting
+  - [ ] Analysis outlining
+  - [ ] Analysis execution 
