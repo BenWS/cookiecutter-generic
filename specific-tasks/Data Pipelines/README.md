@@ -1,0 +1,1 @@
+For each SQL file (or any other file type), there can be a one-to-many file-to-table relationship, with (at least one of) the final model name aligned with the name of the file.
