@@ -7,8 +7,6 @@ This is the companion file to the `Data Models.xlsx` document and intended to be
    - Table 2
    - Table 3
 
-# Table Models
-
 # ++Model 1++
 
 - Model Name: ++Model Name++
