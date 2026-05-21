@@ -13,7 +13,7 @@ def main() -> int:
 
     try:
         if system == "windows":
-            os.startfile(str(project_dir))
+            subprocess.run(["code", str(project_dir)], check=False)
         elif system == "darwin":
             subprocess.run(["code", str(project_dir)], check=False)
         else:
