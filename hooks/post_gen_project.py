@@ -8,9 +8,7 @@ from pathlib import Path
 
 
 def main() -> int:
-    project_dir = Path.cwd()
-    
-    command = "code ."
+    subprocess.run("code .")
 
     return 0
 
