@@ -1,11 +1,9 @@
-# (Template) Sprint MM-DD-YYYY
+# Tasks
 
-- Issue Link: **Provide**
-- Issue ID: **YYYY-MM-DD-hh-mm-ss**
-- Estimated Development Hours: **N**
-- File Folder: See [here](<../../Files/Short Name MM-DD-YYYY>)
-
-> Once a remotely hosted issue (if any) has been created, all details should be persisted there rather
+- __Issue Link__ - Provide
+- __Issue ID__ - YYYY-MM-DD-hh-mm-ss
+- __Sprint Begin Date__ - MM/DD/YYYY
+- __Sprint Length__ - X weeks
 
 __Project Fields__
 - [ ] TODO STORY: Log Story
@@ -18,22 +16,16 @@ __Goal__
 
 __Tasks__
 
-- __vv Current vv__
 - [ ] Task 1
-- __vv Backlogged vv__
 - [ ] Task 2
 - [ ] Task 3
 
-## Output
+__Recurring Tasks__
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
 
-## Journal
+# Output
 
-*Provide loose notes without required structure here*
+# Journal
 
-## Publish
-
-*Anything under this section should be eventually published to Jira is an issue comment*
-
-### Comment Title 1
-
-### Comment Title 2
