@@ -15,9 +15,9 @@ def main() -> int:
         if system == "windows":
             os.startfile(str(project_dir))
         elif system == "darwin":
-            subprocess.run(["open", str(project_dir)], check=False)
+            subprocess.run(["code", str(project_dir)], check=False)
         else:
-            subprocess.run(["xdg-open", str(project_dir)], check=False)
+            subprocess.run(["code", str(project_dir)], check=False)
     except Exception as exc:
         print(f"Warning: could not open generated folder: {exc}")
 
