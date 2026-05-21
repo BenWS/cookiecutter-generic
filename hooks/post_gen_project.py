@@ -8,7 +8,7 @@ from pathlib import Path
 
 
 def main() -> int:
-    subprocess.run("code .")
+    os.system("code .")
 
     return 0
 
