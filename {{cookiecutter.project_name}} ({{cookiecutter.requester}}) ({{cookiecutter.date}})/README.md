@@ -8,11 +8,15 @@
 
 > Bulleted list containing high-level deliverables to support goals, helpful for sparking new low-level task ideas in release cycle project planning.
 
+## Acceptance Criteria
+
+> What high-level signals defines 'done' for this project? These signals should (again) be defined in context of the high-level deliverables.
+
 ## Lower-level Features
 
 > Lower-level features needed in context of the overall project 
 
-## Miscellaneous Tasks
+## Current Tasks
 
 > 
 

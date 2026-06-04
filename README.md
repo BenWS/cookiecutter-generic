@@ -14,5 +14,4 @@ cookiecutter gh:BenWS/cookiecutter-generic --output-dir "$story_file_path"
 
 Cookiecutter automatically runs hook scripts from the `hooks/` folder.
 
-This template includes `hooks/post_gen_project.py`, which opens the generated
-project folder in File Explorer after creation.
+This template includes `hooks/post_gen_project.py`, which opens the generated project folder in File Explorer after creation.
