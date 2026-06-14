@@ -20,6 +20,20 @@
 
 > 
 
+### Generic Tasks
+
+- [ ] Issue management/creation
+ 
+
+### Dashboard Tasks
+
+
+### Job Resolution Tasks
+
+- [ ] Identify failing jobs
+- [ ] Resolve failing jobs
+
+
 # Release Cycle MM-DD-YYYY
 
 > Please see the [project planning checklist](<../Miscellaneous/Project Notes Structure.md>) for context and process description on how the notes structure in this folder should generally be used.
