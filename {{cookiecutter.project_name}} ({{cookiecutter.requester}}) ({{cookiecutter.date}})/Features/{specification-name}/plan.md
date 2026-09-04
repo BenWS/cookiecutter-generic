@@ -16,22 +16,27 @@ Group work into numbered units. **Each unit pairs production development with te
 
 <!-- Each unit corresponds to features and each 'iteration' of development -->
 
-### Unit 1 — <title>
-- Covers: AC-001, AC-002
+### Unit N - Template
+
+- Covers
+  - *Copy functional requirements to this this section*
+- Goals
+  - *How do I consider this module's implementation to be 'finished'?*
 - Files
-  - <paths>
-- Components: <classes / methods / fields>
-- Patterns: <pattern> — <why>
-- Tests: tests/<x>_test.<ext> — cases: happy path, null input → error, boundary
-- Coverage note: <branches this unit's tests must exercise>
+  - *(Optional) What files am I modifying?*
 
-<!-- further plan details captured in this file if needed - if plan details eventually benefit multiple plans, promte to spec's architecture -->
-- [Unit 1 - <title>](<./plan-unit-1-{title}.md>)
+<!-- 
+Further plan details captured in this file if needed - if plan details eventually benefit multiple plans, promte to spec's architecture
+-->
 
-### Unit 2 — ...
+<!-- 
+Reference 'Plan Templates' for any one of the following:
+- data-pipeline-construction.md
+- tableau.md
+- 
+-->
 
-## Open Plan Questions
-- [ ] <unresolved planning decision>
+- [(Work Label)](<plan-unit-n-{work label}.md>)
 
 ## Changelog
 | 1.0 | <date> | <author> | Initial plan |

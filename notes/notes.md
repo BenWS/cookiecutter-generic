@@ -32,8 +32,10 @@
 
 - `(Model 1)`
     - Grain
+    - Scope
 - `(Model 2)`
     - Grain
+    - Scope
 
 # Data Pipeline Design
 
