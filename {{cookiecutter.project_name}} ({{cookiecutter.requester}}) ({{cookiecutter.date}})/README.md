@@ -18,7 +18,12 @@
 
 ## Current Tasks
 
-> 
+Template
+
+```md
+- [ ] Feature - [{Friendly Specification Name}](Features/{specification-name})
+- [ ] Feature - [{Friendly Specification Name #2}](Features/{specification-name-2})
+```
 
 ### Generic Tasks
 

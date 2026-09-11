@@ -17,3 +17,6 @@
 
 ## Data Sources
 
+- (Data Source Name)
+  - (Logical Table 1)
+  - (Logical Table 2)

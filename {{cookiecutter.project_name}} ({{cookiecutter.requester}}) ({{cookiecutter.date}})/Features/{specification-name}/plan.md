@@ -18,12 +18,18 @@ Group work into numbered units. **Each unit pairs production development with te
 
 ### Unit N - Template
 
+Description - *brief description of unit of work*
+
 - Covers
   - *Copy functional requirements to this this section*
 - Goals
   - *How do I consider this module's implementation to be 'finished'?*
 - Files
   - *(Optional) What files am I modifying?*
+- Tasks
+  - *Lists of tasks to accomplish for this unit - ideally sequential*
+- Blockers
+  - *Blocked by Unit N*
 
 <!-- 
 Further plan details captured in this file if needed - if plan details eventually benefit multiple plans, promte to spec's architecture
