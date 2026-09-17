@@ -30,6 +30,9 @@
 - [ ] **FR1** - 
 - [ ] **FR2** - 
 
+> Templates:
+>   - [Model Development](../templates/fr-model-development.md)
+
 ### Non-Functional
 <!-- Include measurable thresholds. Use p99 latency, uptime %, data volume, etc. -->
 - [ ] **Performance:** 
@@ -49,6 +52,9 @@ __
 <!-- These drive the pseudocode plan — one plan step per criterion. -->
 - [ ] **AC1:**
 - [ ] **AC2:** - 
+
+> Templates:
+>   - [Model Development](../templates/acc-model-development.md)
 
 ---
 

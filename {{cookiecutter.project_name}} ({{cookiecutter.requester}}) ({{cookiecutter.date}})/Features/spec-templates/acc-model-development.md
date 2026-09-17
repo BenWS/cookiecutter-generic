@@ -1,0 +1,5 @@
+- **AC1:** - Data Models contain the columns required in the Data Model design
+- **AC2:** - Data Models contain the scope of products as required by the Data Model design
+- **AC3:** - Data Models fulfill any additional critieria specified in the `__Additional Criteria__` section for each model
+- **AC4:** - Data Models contain record count close to previous scope
+- **AC5:** - Data Models have both column and table definitions
