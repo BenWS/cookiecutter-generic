@@ -18,6 +18,8 @@ Group work into numbered units. **Each unit pairs production development with te
 
 ### Unit N - Template
 
+Plan Status: `Draft Plan` <!-- Draft Plan | Implemented | Backlog | Archived | In Progress -- >
+
 Description - *brief description of unit of work*
 
 - Covers
