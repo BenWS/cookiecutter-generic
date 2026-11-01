@@ -23,7 +23,8 @@ Unit Status: `Draft Plan` <!-- Draft Plan | Implemented | Backlog | Archived | I
 Description - *brief description of unit of work*
 
 - Covers
-  - *Copy functional requirements to this this section*
+  - *Copy functional requirements to this this section or edit the canned acceptance criteria list*
+  - [ ] Data Model Development <!-- see acc-model-development.md -->
 - Goals
   - *How do I consider this module's implementation to be 'finished'?*
 - Files
@@ -45,6 +46,37 @@ Reference 'Plan Templates' for any one of the following:
 -->
 
 - [(Work Label)](<plan-unit-n-{work label}.md>)
+
+### Unit 1 - Initial
+
+Unit Status: `Draft Plan` <!-- Draft Plan | Implemented | Backlog | Archived | In Progress -- >
+
+Description - *brief description of unit of work*
+
+- Covers
+  - *Copy functional requirements to this this section or edit the canned acceptance criteria list*
+  - [ ] Data Model Development <!-- see acc-model-development.md -->
+- Goals
+  - *How do I consider this module's implementation to be 'finished'?*
+- Files
+  - *(Optional) What files am I modifying?*
+- Tasks
+  - *Lists of tasks to accomplish for this unit - ideally sequential*
+- Blockers
+  - *Blocked by Unit N*
+
+<!-- 
+Further plan details captured in this file if needed - if plan details eventually benefit multiple plans, promte to spec's architecture
+-->
+
+<!-- 
+Reference 'Plan Templates' for any one of the following:
+- data-pipeline-construction.md
+- tableau.md
+- 
+-->
+
+- [(Work Label)](<plan-unit-1.md>)
 
 ## Changelog
 | 1.0 | <date> | <author> | Initial plan |
