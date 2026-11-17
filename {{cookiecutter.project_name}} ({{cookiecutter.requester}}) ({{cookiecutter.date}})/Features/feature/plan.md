@@ -31,6 +31,8 @@ Description - *brief description of unit of work*
   - *(Optional) What files am I modifying?*
 - Tasks
   - *Lists of tasks to accomplish for this unit - ideally sequential*
+  - N.1.
+  - N.2.
 - Blockers
   - *Blocked by Unit N*
 
@@ -62,6 +64,8 @@ Description - *brief description of unit of work*
   - *(Optional) What files am I modifying?*
 - Tasks
   - *Lists of tasks to accomplish for this unit - ideally sequential*
+  - 1.1.
+  - 1.2.
 - Blockers
   - *Blocked by Unit N*
 

@@ -7,13 +7,13 @@
 
 # Tableau
 
-## Parameters
+__Worksheets__
 
-## Field Names
+__Parameters__
 
-## Worksheets
+__Field Names__
 
-## Actions
+__Actions__
 
 ## Data Sources
 
